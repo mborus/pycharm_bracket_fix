@@ -14,9 +14,12 @@ this script for Autohotkey does this.
 Download & install Autohotkey from 
 https://www.autohotkey.com/
 
-Double click on pycharm_bracket_fix.ahk
+Double click on **pycharm_bracket_fix.ahk**
 
 In windows that have a have ending with "- PyCharm" the brackets are now entered via the clipboard.
 
 Try slowly!
 
+
+## Note: 
+This assumes a German keyboard layout, for others you may have to amend the keys.
