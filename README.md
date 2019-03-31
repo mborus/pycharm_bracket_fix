@@ -9,8 +9,7 @@ Currently some Windows users can't use brackets like [] and {}.
 Since it's still possible to paste them via the clipboard,
 this script for Autohotkey does this.
 
-Installation
-############
+## Installation
 
 Download & install Autohotkey from 
 https://www.autohotkey.com/
