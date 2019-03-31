@@ -23,3 +23,8 @@ Try slowly!
 
 ## Note: 
 This assumes a German keyboard layout, for others you may have to amend the keys.
+
+## Update:
+
+There is now an official work around that solved the problem in a better way
+See: https://youtrack.jetbrains.com/issue/IDEA-209426
